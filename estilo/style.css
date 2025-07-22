@@ -26,7 +26,7 @@ html{
     font-size: 1.6rem;
 }
 
-body{
+main{
     background-color: var(--Purple-100);
     background-image: url(/images/background-pattern-mobile.jpg);
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ body{
     align-items: center;
 }
 
-main{
+article{
     background-color: var(--White);
     width: 90%;
     margin: 15rem;
