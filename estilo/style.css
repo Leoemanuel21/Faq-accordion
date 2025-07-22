@@ -31,8 +31,8 @@ body{
     background-image: url(/images/background-pattern-mobile.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 100vh;
-    width: 100vw;
+    min-height: 100vh;
+    width: 37.5rem;
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
