@@ -30,7 +30,7 @@ body{
     background-image: url(/images/background-pattern-mobile.svg);
     background-color: var(--Purple-100);
     background-repeat: no-repeat;
-    height: 100vh;
+    min-height: 100vh;
     max-width: 37.5rem;
     display: flex;
     flex-flow: column nowrap;
