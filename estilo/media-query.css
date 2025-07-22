@@ -5,12 +5,18 @@
         background-image: url(../images/background-pattern-desktop.svg);
         background-size: contain;
     }
+
     main{
         width: 55vw;
     }
 
     .titulo > h1{
         width: 85%;
+    }
+
+    h2:hover{
+        color: #AD28F1;
+        cursor: pointer;
     }
 }
 
@@ -26,6 +32,11 @@
     .titulo > h1{
         width: 90%;
     }
+
+    h2:hover{
+        color: #AD28F1;
+        cursor: pointer;
+    }
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1440px){
@@ -39,6 +50,11 @@
 
     .titulo > h1{
         width: 93%;
+    }
+
+    h2:hover{
+        color: #AD28F1;
+        cursor: pointer;
     }
 }
 
@@ -56,4 +72,8 @@
         width: 93%;
     }
 
+    h2:hover{
+        color: #AD28F1;
+        cursor: pointer;
+    }
 }

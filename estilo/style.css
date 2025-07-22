@@ -72,11 +72,6 @@ h1{
     font-size: 3rem;
 }
 
-h2:hover{
-    color: #AD28F1;
-    cursor: pointer;
-}
-
 p{
     padding: 1rem;
     color: var(--Purple-600);
