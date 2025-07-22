@@ -13,6 +13,10 @@ function clickMenu(){
     }
 }
 
-function click(){
-    window.alert("Você clicou na imagem!");
+function resposta(){
+    if(itens.style.display == 'block'){
+        itens.style.display = 'none'
+    }else{
+        itens.style.display = 'block'
+    }
 }

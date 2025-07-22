@@ -27,8 +27,8 @@ html{
 }
 
 body{
-    background-color: var(--Purple-100);
     background-image: url(/images/background-pattern-mobile.svg);
+    background-color: var(--Purple-100);
     background-repeat: no-repeat;
     height: 100vh;
     max-width: 37.5rem;
@@ -45,10 +45,6 @@ main{
     border-radius: .7rem;
 }
 
-div{
-
-}
-
 section{
     display: flex;
     flex-flow: row nowrap;
@@ -60,7 +56,7 @@ section{
 }
 
 .titulo > h1{
-    width: 34rem;
+    width: 23rem;
 }
 
 .titulo > img{
