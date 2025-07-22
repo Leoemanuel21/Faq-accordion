@@ -12,3 +12,7 @@ function clickMenu(){
         itens.style.display = 'block'
     }
 }
+
+function click(){
+    window.alert("Você clicou na imagem!");
+}
